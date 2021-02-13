@@ -1,0 +1,4 @@
+Numero total de pessoas entrevistadas: 6
+Idade media do grupo: 55
+Maior idade :150
+Menor idade :1
